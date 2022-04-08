@@ -33,8 +33,6 @@ namespace LabSintaxis4
         static void mostrarSuma() //El resultado de la suma de < número uno > y < número dos > es < resultado >
         {
             int nro1, nro2;
-            // rama notebook
-            //main
             Console.Write("Ingrese el primer numero: ");
             nro1 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Ingrese el segundo numero: ");
