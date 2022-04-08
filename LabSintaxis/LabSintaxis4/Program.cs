@@ -34,6 +34,7 @@ namespace LabSintaxis4
         {
             int nro1, nro2;
             // rama notebook
+            //main
             Console.Write("Ingrese el primer numero: ");
             nro1 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Ingrese el segundo numero: ");
