@@ -14,6 +14,7 @@ namespace Lab02
             Console.WriteLine(valor_2);
             Console.WriteLine(valor_3);
             Console.ReadKey();
+            
 
         }
     }

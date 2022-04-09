@@ -1,0 +1,12 @@
+C:\Users\bauti\source\mis repos\ownCode\Lab01\Windows\bin\Debug\Windows.exe.config
+C:\Users\bauti\source\mis repos\ownCode\Lab01\Windows\bin\Debug\Windows.exe
+C:\Users\bauti\source\mis repos\ownCode\Lab01\Windows\bin\Debug\Windows.pdb
+C:\Users\bauti\source\mis repos\ownCode\Lab01\Windows\bin\Debug\Util.dll
+C:\Users\bauti\source\mis repos\ownCode\Lab01\Windows\bin\Debug\Util.pdb
+C:\Users\bauti\source\mis repos\ownCode\Lab01\Windows\obj\Debug\Windows.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\ownCode\Lab01\Windows\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\bauti\source\mis repos\ownCode\Lab01\Windows\obj\Debug\Windows.csproj.GenerateResource.cache
+C:\Users\bauti\source\mis repos\ownCode\Lab01\Windows\obj\Debug\Windows.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\ownCode\Lab01\Windows\obj\Debug\Windows.csproj.CopyComplete
+C:\Users\bauti\source\mis repos\ownCode\Lab01\Windows\obj\Debug\Windows.exe
+C:\Users\bauti\source\mis repos\ownCode\Lab01\Windows\obj\Debug\Windows.pdb
