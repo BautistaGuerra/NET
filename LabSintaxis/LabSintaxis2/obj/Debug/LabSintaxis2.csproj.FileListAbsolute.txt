@@ -1,0 +1,7 @@
+C:\Users\bauti\source\mis repos\ownCode\LabSintaxis\LabSintaxis2\bin\Debug\LabSintaxis2.exe.config
+C:\Users\bauti\source\mis repos\ownCode\LabSintaxis\LabSintaxis2\bin\Debug\LabSintaxis2.exe
+C:\Users\bauti\source\mis repos\ownCode\LabSintaxis\LabSintaxis2\bin\Debug\LabSintaxis2.pdb
+C:\Users\bauti\source\mis repos\ownCode\LabSintaxis\LabSintaxis2\obj\Debug\LabSintaxis2.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\ownCode\LabSintaxis\LabSintaxis2\obj\Debug\LabSintaxis2.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\ownCode\LabSintaxis\LabSintaxis2\obj\Debug\LabSintaxis2.exe
+C:\Users\bauti\source\mis repos\ownCode\LabSintaxis\LabSintaxis2\obj\Debug\LabSintaxis2.pdb
