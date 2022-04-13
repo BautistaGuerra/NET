@@ -1,0 +1,6 @@
+C:\Users\bauti\source\mis repos\Lab2.2.4\Persona\bin\Debug\Persona.dll
+C:\Users\bauti\source\mis repos\Lab2.2.4\Persona\bin\Debug\Persona.pdb
+C:\Users\bauti\source\mis repos\Lab2.2.4\Persona\obj\Debug\Persona.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\Lab2.2.4\Persona\obj\Debug\Persona.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\Lab2.2.4\Persona\obj\Debug\Persona.dll
+C:\Users\bauti\source\mis repos\Lab2.2.4\Persona\obj\Debug\Persona.pdb
