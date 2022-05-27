@@ -1,0 +1,14 @@
+C:\Users\bauti\source\mis repos\ownCode\U2.Lab2.3\Lab2.3.1\Lab2.3.1\bin\Debug\netcoreapp3.1\Lab2.3.1.exe
+C:\Users\bauti\source\mis repos\ownCode\U2.Lab2.3\Lab2.3.1\Lab2.3.1\bin\Debug\netcoreapp3.1\Lab2.3.1.deps.json
+C:\Users\bauti\source\mis repos\ownCode\U2.Lab2.3\Lab2.3.1\Lab2.3.1\bin\Debug\netcoreapp3.1\Lab2.3.1.runtimeconfig.json
+C:\Users\bauti\source\mis repos\ownCode\U2.Lab2.3\Lab2.3.1\Lab2.3.1\bin\Debug\netcoreapp3.1\Lab2.3.1.runtimeconfig.dev.json
+C:\Users\bauti\source\mis repos\ownCode\U2.Lab2.3\Lab2.3.1\Lab2.3.1\bin\Debug\netcoreapp3.1\Lab2.3.1.dll
+C:\Users\bauti\source\mis repos\ownCode\U2.Lab2.3\Lab2.3.1\Lab2.3.1\bin\Debug\netcoreapp3.1\Lab2.3.1.pdb
+C:\Users\bauti\source\mis repos\ownCode\U2.Lab2.3\Lab2.3.1\Lab2.3.1\obj\Debug\netcoreapp3.1\Lab2.3.1.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\ownCode\U2.Lab2.3\Lab2.3.1\Lab2.3.1\obj\Debug\netcoreapp3.1\Lab2.3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bauti\source\mis repos\ownCode\U2.Lab2.3\Lab2.3.1\Lab2.3.1\obj\Debug\netcoreapp3.1\Lab2.3.1.AssemblyInfoInputs.cache
+C:\Users\bauti\source\mis repos\ownCode\U2.Lab2.3\Lab2.3.1\Lab2.3.1\obj\Debug\netcoreapp3.1\Lab2.3.1.AssemblyInfo.cs
+C:\Users\bauti\source\mis repos\ownCode\U2.Lab2.3\Lab2.3.1\Lab2.3.1\obj\Debug\netcoreapp3.1\Lab2.3.1.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\ownCode\U2.Lab2.3\Lab2.3.1\Lab2.3.1\obj\Debug\netcoreapp3.1\Lab2.3.1.dll
+C:\Users\bauti\source\mis repos\ownCode\U2.Lab2.3\Lab2.3.1\Lab2.3.1\obj\Debug\netcoreapp3.1\Lab2.3.1.pdb
+C:\Users\bauti\source\mis repos\ownCode\U2.Lab2.3\Lab2.3.1\Lab2.3.1\obj\Debug\netcoreapp3.1\Lab2.3.1.genruntimeconfig.cache
