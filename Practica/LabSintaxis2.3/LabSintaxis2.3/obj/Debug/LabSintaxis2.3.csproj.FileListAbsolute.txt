@@ -1,0 +1,6 @@
+C:\Users\bauti\source\mis repos\Practica\LabSintaxis2.3\LabSintaxis2.3\bin\Debug\LabSintaxis2.3.exe.config
+C:\Users\bauti\source\mis repos\Practica\LabSintaxis2.3\LabSintaxis2.3\bin\Debug\LabSintaxis2.3.exe
+C:\Users\bauti\source\mis repos\Practica\LabSintaxis2.3\LabSintaxis2.3\bin\Debug\LabSintaxis2.3.pdb
+C:\Users\bauti\source\mis repos\Practica\LabSintaxis2.3\LabSintaxis2.3\obj\Debug\LabSintaxis2.3.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\Practica\LabSintaxis2.3\LabSintaxis2.3\obj\Debug\LabSintaxis2.3.exe
+C:\Users\bauti\source\mis repos\Practica\LabSintaxis2.3\LabSintaxis2.3\obj\Debug\LabSintaxis2.3.pdb

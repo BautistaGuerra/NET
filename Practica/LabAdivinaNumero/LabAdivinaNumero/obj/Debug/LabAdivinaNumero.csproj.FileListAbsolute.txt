@@ -1,0 +1,10 @@
+C:\Users\bauti\source\mis repos\Practica\LabAdivinaNumero\LabAdivinaNumero\bin\Debug\LabAdivinaNumero.exe.config
+C:\Users\bauti\source\mis repos\Practica\LabAdivinaNumero\LabAdivinaNumero\bin\Debug\LabAdivinaNumero.exe
+C:\Users\bauti\source\mis repos\Practica\LabAdivinaNumero\LabAdivinaNumero\bin\Debug\LabAdivinaNumero.pdb
+C:\Users\bauti\source\mis repos\Practica\LabAdivinaNumero\LabAdivinaNumero\bin\Debug\Clases.dll
+C:\Users\bauti\source\mis repos\Practica\LabAdivinaNumero\LabAdivinaNumero\bin\Debug\Clases.pdb
+C:\Users\bauti\source\mis repos\Practica\LabAdivinaNumero\LabAdivinaNumero\obj\Debug\LabAdivinaNumero.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\Practica\LabAdivinaNumero\LabAdivinaNumero\obj\Debug\LabAdivinaNumero.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\Practica\LabAdivinaNumero\LabAdivinaNumero\obj\Debug\LabAdivinaNumero.csproj.CopyComplete
+C:\Users\bauti\source\mis repos\Practica\LabAdivinaNumero\LabAdivinaNumero\obj\Debug\LabAdivinaNumero.exe
+C:\Users\bauti\source\mis repos\Practica\LabAdivinaNumero\LabAdivinaNumero\obj\Debug\LabAdivinaNumero.pdb

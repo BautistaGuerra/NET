@@ -1,0 +1,6 @@
+C:\Users\bauti\source\mis repos\Practica\LabClases1\Clases\bin\Debug\Clases.dll
+C:\Users\bauti\source\mis repos\Practica\LabClases1\Clases\bin\Debug\Clases.pdb
+C:\Users\bauti\source\mis repos\Practica\LabClases1\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\Practica\LabClases1\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\Practica\LabClases1\Clases\obj\Debug\Clases.dll
+C:\Users\bauti\source\mis repos\Practica\LabClases1\Clases\obj\Debug\Clases.pdb

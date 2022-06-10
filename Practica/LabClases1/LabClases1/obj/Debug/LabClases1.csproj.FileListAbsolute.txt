@@ -1,0 +1,10 @@
+C:\Users\bauti\source\mis repos\Practica\LabClases1\LabClases1\bin\Debug\LabClases1.exe.config
+C:\Users\bauti\source\mis repos\Practica\LabClases1\LabClases1\bin\Debug\LabClases1.exe
+C:\Users\bauti\source\mis repos\Practica\LabClases1\LabClases1\bin\Debug\LabClases1.pdb
+C:\Users\bauti\source\mis repos\Practica\LabClases1\LabClases1\bin\Debug\Clases.dll
+C:\Users\bauti\source\mis repos\Practica\LabClases1\LabClases1\bin\Debug\Clases.pdb
+C:\Users\bauti\source\mis repos\Practica\LabClases1\LabClases1\obj\Debug\LabClases1.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\Practica\LabClases1\LabClases1\obj\Debug\LabClases1.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\Practica\LabClases1\LabClases1\obj\Debug\LabClases1.csproj.CopyComplete
+C:\Users\bauti\source\mis repos\Practica\LabClases1\LabClases1\obj\Debug\LabClases1.exe
+C:\Users\bauti\source\mis repos\Practica\LabClases1\LabClases1\obj\Debug\LabClases1.pdb
