@@ -1,5 +1,0 @@
-C:\Users\bauti\source\mis repos\Lab2.2\Clases\bin\Debug\Clases1.dll
-C:\Users\bauti\source\mis repos\Lab2.2\Clases\bin\Debug\Clases1.pdb
-C:\Users\bauti\source\mis repos\Lab2.2\Clases\obj\Debug\Clases1.csproj.CoreCompileInputs.cache
-C:\Users\bauti\source\mis repos\Lab2.2\Clases\obj\Debug\Clases1.dll
-C:\Users\bauti\source\mis repos\Lab2.2\Clases\obj\Debug\Clases1.pdb

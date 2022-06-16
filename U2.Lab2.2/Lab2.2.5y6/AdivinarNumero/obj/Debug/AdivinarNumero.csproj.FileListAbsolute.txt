@@ -1,6 +1,0 @@
-C:\Users\bauti\source\mis repos\Lab2.2.5\AdivinarNumero\bin\Debug\AdivinarNumero.dll
-C:\Users\bauti\source\mis repos\Lab2.2.5\AdivinarNumero\bin\Debug\AdivinarNumero.pdb
-C:\Users\bauti\source\mis repos\Lab2.2.5\AdivinarNumero\obj\Debug\AdivinarNumero.csproj.AssemblyReference.cache
-C:\Users\bauti\source\mis repos\Lab2.2.5\AdivinarNumero\obj\Debug\AdivinarNumero.csproj.CoreCompileInputs.cache
-C:\Users\bauti\source\mis repos\Lab2.2.5\AdivinarNumero\obj\Debug\AdivinarNumero.dll
-C:\Users\bauti\source\mis repos\Lab2.2.5\AdivinarNumero\obj\Debug\AdivinarNumero.pdb

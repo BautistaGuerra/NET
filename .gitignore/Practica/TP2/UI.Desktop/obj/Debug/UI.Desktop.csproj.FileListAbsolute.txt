@@ -1,0 +1,9 @@
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb

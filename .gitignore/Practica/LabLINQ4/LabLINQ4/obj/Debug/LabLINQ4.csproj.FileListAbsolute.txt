@@ -1,0 +1,10 @@
+C:\Users\bauti\source\mis repos\Practica\LabLINQ4\LabLINQ4\bin\Debug\LabLINQ4.exe.config
+C:\Users\bauti\source\mis repos\Practica\LabLINQ4\LabLINQ4\bin\Debug\LabLINQ4.exe
+C:\Users\bauti\source\mis repos\Practica\LabLINQ4\LabLINQ4\bin\Debug\LabLINQ4.pdb
+C:\Users\bauti\source\mis repos\Practica\LabLINQ4\LabLINQ4\bin\Debug\Clases.dll
+C:\Users\bauti\source\mis repos\Practica\LabLINQ4\LabLINQ4\bin\Debug\Clases.pdb
+C:\Users\bauti\source\mis repos\Practica\LabLINQ4\LabLINQ4\obj\Debug\LabLINQ4.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\Practica\LabLINQ4\LabLINQ4\obj\Debug\LabLINQ4.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\Practica\LabLINQ4\LabLINQ4\obj\Debug\LabLINQ4.csproj.CopyComplete
+C:\Users\bauti\source\mis repos\Practica\LabLINQ4\LabLINQ4\obj\Debug\LabLINQ4.exe
+C:\Users\bauti\source\mis repos\Practica\LabLINQ4\LabLINQ4\obj\Debug\LabLINQ4.pdb

@@ -1,0 +1,28 @@
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Consola\obj\Debug\UI.Consola.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Consola\bin\Debug\UI.Consola.exe.config
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Consola\bin\Debug\UI.Consola.exe
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Consola\bin\Debug\Business.Entities.dll
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Consola\bin\Debug\Business.Logic.dll
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Consola\bin\Debug\Data.Database.dll
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Consola\bin\Debug\Business.Entities.pdb
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Consola\bin\Debug\Business.Logic.pdb
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Consola\bin\Debug\Data.Database.pdb
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Consola\obj\Debug\UI.Consola.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Consola\obj\Debug\UI.Consola.csproj.CopyComplete
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Consola\obj\Debug\UI.Consola.exe
+C:\Users\bauti\source\mis repos\Practica\TP2\UI.Consola\obj\Debug\UI.Consola.pdb
+C:\Users\bauti\source\mis repos\Practica\TP2 U3\UI.Consola\bin\Debug\UI.Consola.exe.config
+C:\Users\bauti\source\mis repos\Practica\TP2 U3\UI.Consola\bin\Debug\UI.Consola.exe
+C:\Users\bauti\source\mis repos\Practica\TP2 U3\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\Users\bauti\source\mis repos\Practica\TP2 U3\UI.Consola\bin\Debug\Business.Entities.dll
+C:\Users\bauti\source\mis repos\Practica\TP2 U3\UI.Consola\bin\Debug\Business.Logic.dll
+C:\Users\bauti\source\mis repos\Practica\TP2 U3\UI.Consola\bin\Debug\Data.Database.dll
+C:\Users\bauti\source\mis repos\Practica\TP2 U3\UI.Consola\bin\Debug\Business.Entities.pdb
+C:\Users\bauti\source\mis repos\Practica\TP2 U3\UI.Consola\bin\Debug\Business.Logic.pdb
+C:\Users\bauti\source\mis repos\Practica\TP2 U3\UI.Consola\bin\Debug\Data.Database.pdb
+C:\Users\bauti\source\mis repos\Practica\TP2 U3\UI.Consola\obj\Debug\UI.Consola.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\Practica\TP2 U3\UI.Consola\obj\Debug\UI.Consola.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\Practica\TP2 U3\UI.Consola\obj\Debug\UI.Consola.csproj.CopyComplete
+C:\Users\bauti\source\mis repos\Practica\TP2 U3\UI.Consola\obj\Debug\UI.Consola.exe
+C:\Users\bauti\source\mis repos\Practica\TP2 U3\UI.Consola\obj\Debug\UI.Consola.pdb

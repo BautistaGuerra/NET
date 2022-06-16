@@ -1,0 +1,6 @@
+C:\Users\bauti\source\mis repos\Practica\LabLINQ2\LabLINQ2\bin\Debug\LabLINQ2.exe.config
+C:\Users\bauti\source\mis repos\Practica\LabLINQ2\LabLINQ2\bin\Debug\LabLINQ2.exe
+C:\Users\bauti\source\mis repos\Practica\LabLINQ2\LabLINQ2\bin\Debug\LabLINQ2.pdb
+C:\Users\bauti\source\mis repos\Practica\LabLINQ2\LabLINQ2\obj\Debug\LabLINQ2.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\Practica\LabLINQ2\LabLINQ2\obj\Debug\LabLINQ2.exe
+C:\Users\bauti\source\mis repos\Practica\LabLINQ2\LabLINQ2\obj\Debug\LabLINQ2.pdb
