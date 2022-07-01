@@ -1,0 +1,7 @@
+C:\Users\bauti\source\mis repos\U4.Lab3\U4.Lab3\bin\Debug\U4.Lab3.exe.config
+C:\Users\bauti\source\mis repos\U4.Lab3\U4.Lab3\bin\Debug\U4.Lab3.exe
+C:\Users\bauti\source\mis repos\U4.Lab3\U4.Lab3\bin\Debug\U4.Lab3.pdb
+C:\Users\bauti\source\mis repos\U4.Lab3\U4.Lab3\obj\Debug\U4.Lab3.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\U4.Lab3\U4.Lab3\obj\Debug\U4.Lab3.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\U4.Lab3\U4.Lab3\obj\Debug\U4.Lab3.exe
+C:\Users\bauti\source\mis repos\U4.Lab3\U4.Lab3\obj\Debug\U4.Lab3.pdb
