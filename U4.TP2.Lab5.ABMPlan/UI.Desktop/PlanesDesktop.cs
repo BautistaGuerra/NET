@@ -51,6 +51,8 @@ namespace UI.Desktop
             else if (Modo == ModoForm.Baja)
             {
                 btnAceptar.Text = "Eliminar";
+                txtDescripcion.ReadOnly = true;
+                txtIDEspecialidad.ReadOnly = true;
             }
             else
             {
