@@ -4,26 +4,17 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using Business.Logic;
 using Business.Entities;
+using Business.Logic;
 
 namespace UI.Web
 {
-    public partial class Usuarios : formApplication
+    public partial class Especialidades : formApplication
     {
-        UsuarioLogic _logic;
-        private UsuarioLogic Logic
+        protected new void Page_Load(object sender, EventArgs e)
         {
-            get
-            {
-                if(_logic == null)
-                {
-                    _logic = new UsuarioLogic();
-                }
-                return _logic;
-            }
+            if (!this.IsPostBack) this.LoadGrid();
         }
-
         public FormModes FormMode
         {
             get
@@ -53,17 +44,27 @@ namespace UI.Web
             get { return (this.SelectedID != 0); }
         }
 
+        EspecialidadLogic _Esplogic;
+        private EspecialidadLogic Esplogic
+        {
+            get
+            {
+                if (_Esplogic == null)
+                {
+                    _Esplogic = new EspecialidadLogic();
+                }
+                return _Esplogic;
+            }
+        }
 
-        private Usuario Entity { get; set; }
-        
+
+
+        private Especialidad Entity { get; set; }
+
         private void LoadGrid()
         {
-            this.gridView.DataSource = this.Logic.GetAll();
+            this.gridView.DataSource = this.Esplogic.GetAll();
             gridView.DataBind();
-        }
-        protected new void Page_Load(object sender, EventArgs e)
-        {
-            if (!this.IsPostBack) this.LoadGrid();
         }
 
         protected void gridView_SelectedIndexChanged(object sender, EventArgs e)
@@ -73,12 +74,8 @@ namespace UI.Web
 
         private void LoadForm(int id)
         {
-            this.Entity = this.Logic.GetOne(id);
-            this.nombreTextBox.Text = this.Entity.Nombre;
-            this.apellidoTextBox.Text = this.Entity.Apellido;
-            this.emailTextBox.Text = this.Entity.Email;
-            this.habilitadoCheckBox.Checked = this.Entity.Habilitado;
-            this.nombreUsuarioTextBox.Text = this.Entity.NombreUsuario;
+            this.Entity = this.Esplogic.GetOne(id);
+            this.descripcionTextBox.Text = this.Entity.Descripcion;
         }
 
         protected void editarLinkButton_Click(object sender, EventArgs e)
@@ -92,19 +89,14 @@ namespace UI.Web
             }
         }
 
-        private void LoadEntity(Usuario usuario)
+        private void LoadEntity(Especialidad especialidad)
         {
-            usuario.Nombre = this.nombreTextBox.Text;
-            usuario.Apellido = this.apellidoTextBox.Text;
-            usuario.Email = this.emailTextBox.Text;
-            usuario.NombreUsuario = this.nombreUsuarioTextBox.Text;
-            usuario.Clave = this.claveTextBox.Text;
-            usuario.Habilitado = this.habilitadoCheckBox.Checked;
+            especialidad.Descripcion = this.descripcionTextBox.Text;
         }
 
-        private void SaveEntity(Usuario usuario)
+        private void SaveEntity(Especialidad especialidad)
         {
-            this.Logic.Save(usuario);
+            this.Esplogic.Save(especialidad);
         }
 
         protected void aceptarLinkButton_Click(object sender, EventArgs e)
@@ -116,15 +108,15 @@ namespace UI.Web
                     this.LoadGrid();
                     break;
                 case FormModes.Modificacion:
-                    this.Entity = new Usuario();
-                    this.Entity.ID = this.SelectedID;
+                    this.Entity = new Especialidad();
+                    this.Entity.IDEspecialidad = this.SelectedID;
                     this.Entity.State = BusinessEntity.States.Modified;
                     this.LoadEntity(this.Entity);
                     this.SaveEntity(this.Entity);
                     this.LoadGrid();
                     break;
                 case FormModes.Alta:
-                    this.Entity = new Usuario();
+                    this.Entity = new Especialidad();
                     this.LoadEntity(this.Entity);
                     this.SaveEntity(this.Entity);
                     this.LoadGrid();
@@ -134,21 +126,9 @@ namespace UI.Web
             this.formPanel.Visible = false;
         }
 
-        protected void repetirClaveTextBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void EnableForm(bool enable)
         {
-            this.nombreTextBox.Enabled = enable;
-            this.apellidoTextBox.Enabled = enable;
-            this.emailTextBox.Enabled = enable;
-            this.nombreUsuarioTextBox.Enabled = enable;
-            this.claveTextBox.Visible = enable;
-            this.claveLabel.Visible = enable;
-            this.repetirClaveTextBox.Visible = enable;
-            this.repetirClaveLabel.Visible = enable;
+            this.descripcionTextBox.Enabled = enable;
         }
 
         protected void eliminarLinkButton_Click(object sender, EventArgs e)
@@ -164,7 +144,7 @@ namespace UI.Web
 
         private void DeleteEntity(int id)
         {
-            this.Logic.Delete(id);
+            this.Esplogic.Delete(id);
         }
 
         protected void nuevoLinkButton_Click(object sender, EventArgs e)
@@ -177,13 +157,7 @@ namespace UI.Web
 
         private void ClearForm()
         {
-            this.nombreTextBox.Text = string.Empty;
-            this.apellidoTextBox.Text = string.Empty;
-            this.emailTextBox.Text = string.Empty;
-            this.habilitadoCheckBox.Checked = false;
-            this.nombreUsuarioTextBox.Text = string.Empty;
+            this.descripcionTextBox.Text = string.Empty;
         }
-
-
     }
 }

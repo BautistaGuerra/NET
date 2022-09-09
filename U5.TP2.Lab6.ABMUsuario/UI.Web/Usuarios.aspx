@@ -6,7 +6,7 @@
         <asp:GridView ID="gridView" runat="server" AutoGenerateColumns="false" 
             SelectedRowStyle-BackColor="Black"
              SelectedRowStyle-ForeColor="White"
-            DataKeyNames="ID">
+            DataKeyNames="ID" OnSelectedIndexChanged="gridView_SelectedIndexChanged">
             <Columns>
                 <asp:BoundField HeaderText="Nombre" DataField="Nombre" />
                 <asp:BoundField HeaderText="Apellido" DataField="Apellido" />
@@ -17,9 +17,9 @@
             </Columns>
         </asp:GridView>
         <asp:Panel ID="gridActionsPanel" runat="server">
-            <asp:LinkButton ID="editarLinkButton" runat="server">Editar</asp:LinkButton>
-            <asp:LinkButton ID="eliminarLinkButton" runat="server">Eliminar</asp:LinkButton>
-            <asp:LinkButton ID="nuevoLinkButton" runat="server">Nuevo</asp:LinkButton>
+            <asp:LinkButton ID="editarLinkButton" runat="server" OnClick="editarLinkButton_Click">Editar</asp:LinkButton>
+            <asp:LinkButton ID="eliminarLinkButton" runat="server" OnClick="eliminarLinkButton_Click">Eliminar</asp:LinkButton>
+            <asp:LinkButton ID="nuevoLinkButton" runat="server" OnClick="nuevoLinkButton_Click">Nuevo</asp:LinkButton>
         </asp:Panel>
         <asp:Panel ID="formPanel" Visible="false" runat="server">
             <asp:Label ID="nombreLabel" runat="server" Text="Nombre: "></asp:Label>
@@ -41,10 +41,10 @@
             <asp:TextBox ID="claveTextBox" runat="server" TextMode="Password"></asp:TextBox>
             <br />
             <asp:Label ID="repetirClaveLabel" runat="server" Text="Repetir Clave: "></asp:Label>
-            <asp:TextBox ID="repetirClaveTextBox" runat="server"></asp:TextBox>
+            <asp:TextBox ID="repetirClaveTextBox" runat="server" OnTextChanged="repetirClaveTextBox_TextChanged" TextMode="Password"></asp:TextBox>
             <br />
             <asp:Panel ID="formsActionsPanel" runat="server">
-                <asp:LinkButton ID="aceptarLinkButton" runat="server">Aceptar</asp:LinkButton>
+                <asp:LinkButton ID="aceptarLinkButton" runat="server" OnClick="aceptarLinkButton_Click">Aceptar</asp:LinkButton>
                 <asp:LinkButton ID="cancelarLinkButton" runat="server">Cancelar</asp:LinkButton>
             </asp:Panel>
         </asp:Panel>
