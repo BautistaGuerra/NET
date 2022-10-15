@@ -1,0 +1,6 @@
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Docente\Docente\Guerra.Entidades\bin\Debug\Guerra.Entidades.dll
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Docente\Docente\Guerra.Entidades\bin\Debug\Guerra.Entidades.pdb
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Docente\Docente\Guerra.Entidades\obj\Debug\Guerra.Entidades.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Docente\Docente\Guerra.Entidades\obj\Debug\Guerra.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Docente\Docente\Guerra.Entidades\obj\Debug\Guerra.Entidades.dll
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Docente\Docente\Guerra.Entidades\obj\Debug\Guerra.Entidades.pdb

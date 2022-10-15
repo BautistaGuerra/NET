@@ -1,0 +1,23 @@
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\bin\Debug\Prueba ABM.exe.config
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\bin\Debug\Prueba ABM.exe
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\bin\Debug\Prueba ABM.pdb
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\bin\Debug\Business.Entity.dll
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\bin\Debug\Business.Logic.dll
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\bin\Debug\Business.Entity.pdb
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\bin\Debug\Business.Logic.pdb
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\obj\Debug\Prueba ABM.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\obj\Debug\Prueba_ABM.formMain.resources
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\obj\Debug\Prueba_ABM.Properties.Resources.resources
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\obj\Debug\Prueba ABM.csproj.GenerateResource.cache
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\obj\Debug\Prueba ABM.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\obj\Debug\Prueba ABM.csproj.CopyComplete
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\obj\Debug\Prueba ABM.exe
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\obj\Debug\Prueba ABM.pdb
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\bin\Debug\Data.Database.dll
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\bin\Debug\Data.Database.pdb
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\obj\Debug\Prueba_ABM.ApplicationForm.resources
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\obj\Debug\Prueba_ABM.UsuariosDesktop.resources
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\obj\Debug\Prueba_ABM.formEspecialidades.resources
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\obj\Debug\Prueba_ABM.EspecialidadesDesktop.resources
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\obj\Debug\Prueba_ABM.formModulos.resources
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Prueba ABM\obj\Debug\Prueba_ABM.ModulosDesktop.resources

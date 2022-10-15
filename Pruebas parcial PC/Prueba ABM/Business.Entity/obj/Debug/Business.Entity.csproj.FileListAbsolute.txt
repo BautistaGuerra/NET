@@ -1,0 +1,6 @@
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Business.Entity\bin\Debug\Business.Entity.dll
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Business.Entity\bin\Debug\Business.Entity.pdb
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Business.Entity\obj\Debug\Business.Entity.csproj.AssemblyReference.cache
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Business.Entity\obj\Debug\Business.Entity.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Business.Entity\obj\Debug\Business.Entity.dll
+C:\Users\bauti\source\mis repos\NET\Pruebas parcial PC\Prueba ABM\Business.Entity\obj\Debug\Business.Entity.pdb
